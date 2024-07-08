@@ -9,7 +9,7 @@
       <router-link to="/">
         <a href="" class="icon flex gap-3 text-2xl items-center">
           <i class="fa-solid fa-sun"></i>
-          <span>新中地天气</span>
+          <span>全国天气查询系统</span>
         </a>
       </router-link>
       <div class="city flex gap-4 items-center">
